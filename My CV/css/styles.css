@@ -1,0 +1,65 @@
+body{
+  margin: 0!important;
+  font-family: 'Lilita One', cursive;
+}
+
+.head_container {
+
+  background-color:#9764c7;
+  color: #f1e4e4;
+  padding: 3% 3% 3%;
+  display: flex;
+
+}
+.head_info {
+width: 25%;
+padding-top: 1%;
+padding-left: 1%;
+}
+.photo{
+  width: 25%;
+
+}
+
+.body_container{
+  display: flex;
+}
+.cv_history{
+  background-color: #f1e4e4;
+  color: #9764c7;
+  width: 75%;
+  padding: 3%;
+}
+.hob_skl{
+  padding: 3%;
+  width: 25%;
+  background-color: #f1e4e4;
+  color: #9764c7;
+}
+.footer_container{
+  background-color:#9764c7;
+  color: #f1e4e4;
+  margin: 0;
+  padding-left: 3%;
+  display: flex;
+  padding: 3%;
+}
+.foot1{
+  width: 33%;
+
+}
+.foot2{
+  width: 33%;
+}
+a:link, a:visited {
+
+  color: #f1e4e4;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #f1e4e4;
+  color:#9764c7;
+}
